@@ -1,0 +1,48 @@
+[Chef0]: made cupcake #0 with [batter, flavoured frosting], price = £6.0
+[Chef1]: made red velvet cake #1 with [flavoured batter, frosting], price = £6.0
+[Chef2]: made red velvet cake #2 with [flavoured batter, frosting], price = £6.0
+[SampleShopManager]: sold cupcake #0 with [batter, flavoured frosting], price = £6.0
+[SampleShopManager]: sold red velvet cake #1 with [flavoured batter, frosting], price = £6.0
+[Chef0]: made cupcake #3 with [batter, flavoured frosting], price = £6.0
+[Chef1]: made victoria sponge cake #4 with [batter, frosting], price = £4.0
+[Chef2]: made cupcake #5 with [batter, flavoured frosting], price = £6.0
+[SampleShopManager]: sold cupcake #3 with [batter, flavoured frosting], price = £6.0
+[Chef0]: made red velvet cake #6 with [flavoured batter, frosting], price = £6.0
+[Chef1]: made cupcake #7 with [batter, flavoured frosting], price = £6.0
+[Chef2]: made red velvet cake #8 with [flavoured batter, frosting], price = £6.0
+[SampleShopManager]: sold red velvet cake #6 with [flavoured batter, frosting], price = £6.0
+[SampleShopManager]: sold victoria sponge cake #4 with [batter, frosting], price = £4.0
+[Chef0]: made red velvet cake #9 with [flavoured batter, frosting], price = £6.0
+[Chef1]: made victoria sponge cake #10 with [batter, frosting], price = £4.0
+[Chef2]: made cupcake #11 with [batter, flavoured frosting], price = £6.0
+[SampleShopManager]: sold red velvet cake #9 with [flavoured batter, frosting], price = £6.0
+[SampleShopManager]: sold victoria sponge cake #10 with [batter, frosting], price = £4.0
+[SampleShopManager]: sold red velvet cake #2 with [flavoured batter, frosting], price = £6.0
+[SampleShopManager]: sold cupcake #5 with [batter, flavoured frosting], price = £6.0
+[SampleShopManager]: sold cupcake #7 with [batter, flavoured frosting], price = £6.0
+[Chef0]: made victoria sponge cake #12 with [batter, frosting], price = £4.0
+[Chef1]: made red velvet cake #13 with [flavoured batter, frosting], price = £6.0
+[Chef2]: made victoria sponge cake #14 with [batter, frosting], price = £4.0
+[SampleShopManager]: sold victoria sponge cake #12 with [batter, frosting], price = £4.0
+[Chef0]: made victoria sponge cake #15 with [batter, frosting], price = £4.0
+[Chef1]: made victoria sponge cake #16 with [batter, frosting], price = £4.0
+[Chef2]: made cupcake #17 with [batter, flavoured frosting], price = £6.0
+[SampleShopManager]: sold victoria sponge cake #15 with [batter, frosting], price = £4.0
+[SampleShopManager]: sold red velvet cake #13 with [flavoured batter, frosting], price = £6.0
+[SampleShopManager]: sold victoria sponge cake #14 with [batter, frosting], price = £4.0
+[Chef0]: made victoria sponge cake #18 with [batter, frosting], price = £4.0
+[Chef1]: made red velvet cake #19 with [flavoured batter, frosting], price = £6.0
+[Chef2]: cannot make cake. BatterDispenser is empty!
+[SampleShopManager]: sold victoria sponge cake #18 with [batter, frosting], price = £4.0
+[SampleShopManager]: sold red velvet cake #19 with [flavoured batter, frosting], price = £6.0
+[SampleShopAssistant]: removed stale red velvet cake #8 with [flavoured batter, frosting], price = £6.0
+Selling remaining cakes
+[SampleShopManager]: sold victoria sponge cake #16 with [batter, frosting], price = £4.0
+[SampleShopManager]: sold cupcake #17 with [batter, flavoured frosting], price = £6.0
+[SampleShopManager]: sold cupcake #11 with [batter, flavoured frosting], price = £6.0
+**************************************************
+              Unused      Sold   Cleaned   Initial
+Batter:            0        19         1        20
+Flavour:           7        12         1        20
+Frosting:          0        19         1        20
+**************************************************
